@@ -1,0 +1,41 @@
+h2 {
+    color: rgb(237, 135, 190);
+}
+header {
+    text-align: center;
+    background: rgb(237, 135, 190);
+    background-size: cover;
+    color: white;
+  }
+
+.special{
+  display: inline;
+  
+}
+li{
+  padding: 5px;
+  color: black;
+}
+
+article{
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.white{
+  color: white;
+}
+
+h2{
+  
+  font-family: "Charm", cursive;
+  font-weight: 400;
+  font-style: normal;
+  }
+  
+h1{
+  font-family: "Kings", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
